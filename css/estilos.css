@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:500&display=swap');
+
+html,
+body {
+    font-family: 'Montserrat';
+}
+.container-fluid{
+    padding: 0px !important;
+}
+
+.view{
+    height: auto;
+    margin-bottom: 30px;
+}
+.nav {
+    background-color: #33b5e5;
+}
+
+.nav-item {
+    padding: 5px;
+}
+#hero {
+    padding: 60px 0px 320px;
+}
+
+hr {
+    width: 50px;
+    border-top: 4px solid #004d40;
+    margin-bottom: 20px;
+}
+
+.decorative{
+    font-family: 'Dancing Script', cursive;
+    letter-spacing: 0rem;
+    line-height: 3rem;    
+} 
+
+h2{
+    font-size: 3rem;
+} 
+
+li.list-group-item:hover{
+    background-color: #ff6f00 !important;
+    color: #ffffff;
+} 
+
+#title {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.card {
+    margin-bottom: 35px;
+}
+
+.row-full {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
